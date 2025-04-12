@@ -39,7 +39,6 @@ This project presents a comprehensive analysis of a departmental store's sales u
 
 ## 📁 Project Structure:
 
-```plaintext
 Departmental-Store-Analysis/
 ├── SQL/
 │   └── data_cleaning_and_analysis.sql
@@ -51,26 +50,26 @@ Departmental-Store-Analysis/
 │   └── departmental_store_sales.csv
 └── README.md
 
-🚀 How to Use
+## 🚀 How to Use
 Clone the Repository
 git clone https://github.com/rwtadisingh12/Departmental-Store-Analysis.git
 
-Explore SQL Scripts
+## Explore SQL Scripts
 Open the .sql file in your preferred SQL IDE (e.g., MySQL Workbench, SQL Server Management Studio, pgAdmin) and run the queries.
 
-Power BI Dashboard
+## Power BI Dashboard
 Open Department Store PowerBi Dashboard.pbix in Power BI Desktop and refresh data if prompted.
 
-Tableau Dashboard
+## Tableau Dashboard
 Open Dashboard Department store1.twbx in Tableau Desktop. If required, update the data source path.
 
-🖼️ Dashboard Previews
+## 🖼️ Dashboard Previews
 (You can add screenshots of your dashboards here)
 
 
-📬 Contact
-Rwtadisingh12 – GitHub Profile
+## 📬 Contact
+rwtadisingh12 – GitHub Profile
 For queries, feedback, or collaborations, feel free to reach out!
 
-⭐️ Show Your Support
+## ⭐️ Show Your Support
 If you found this project helpful, feel free to star ⭐ the repository and share it with others!
